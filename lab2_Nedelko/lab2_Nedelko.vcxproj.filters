@@ -24,12 +24,24 @@
     <ClCompile Include="cs.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="redirect_output_wrapper.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="utils.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pipe.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
     <ClInclude Include="cs.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="utils.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="redirect_output_wrapper.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
